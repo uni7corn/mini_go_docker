@@ -1,2 +1,3 @@
 # mini_go_docker
-a mini do docker
+
+Learn to write a docker using Go
