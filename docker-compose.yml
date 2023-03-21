@@ -1,0 +1,9 @@
+version: 2.15.1
+
+services:
+  build-mini-go_docker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - /Users/55k/code/go/mini_go_docker/hello:/workspace
